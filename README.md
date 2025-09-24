@@ -22,6 +22,7 @@ See the [contributing](#contributing) section for details on how to add your imp
   * [Perl](#perl)
   * [Python](#python)
   * [Rust](#rust)
+  * [Zig](#zig)
 
 # Contributing
 
